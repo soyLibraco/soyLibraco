@@ -1,7 +1,7 @@
 # Hola, soy Bruno 👋
 
 **Fotógrafo y aprendiz del código.**  
-Estoy aprendiendo Python en el curso **Digitalers Developer IA**, documentando mi progreso en GitHub.
+Estoy aprendiendo Python en el curso **Digitalers Developer IA** y documentando mi progreso en GitHub.
 
 📍 Argentina
 
