@@ -20,7 +20,7 @@ Estoy aprendiendo Python en el curso **Digitalers Developer IA** y documentando 
 | Repo | Descripción |
 |------|-------------|
 | [**digitalers-developeria**](https://github.com/soyLibraco/digitalers-developeria) | Seguimiento del curso: clases, desafíos, laboratorios y proyecto integrador |
-| [**proyectos-python**](https://github.com/soyLibraco/proyectos-python) | Mini proyectos personales: trivia, piedra-papel-tijera, adivinar el número |
+| [**proyectos-python**](https://github.com/soyLibraco/proyectos-python) | Mini proyectos personales: trivia, cajero automático, piedra-papel-tijera, adivinar el número |
 
 ---
 
