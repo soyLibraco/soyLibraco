@@ -10,7 +10,7 @@ Estoy aprendiendo Python en el curso **Digitalers Developer IA** y documentando 
 ## 🚀 En qué estoy trabajando
 
 - Curso **Developer IA** (Digitalers) — iniciado el 01/06/2026
-- **Progreso:** 3 de 37 clases completadas
+- **Progreso:** 5 de 37 clases completadas
 - Práctica constante con ejercicios, desafíos y mini proyectos en Python
 
 ---
